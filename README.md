@@ -27,7 +27,7 @@
 ### ☁️ Cloud, Workflow & Automation  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-  <img src="https://icon2.cleanpng.com/lnd/20241122/ve/85ee4860600f5fcfcd3ed203d10cd5.webp" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="55"/>
   <img src="https://framerusercontent.com/images/RKFHbzSnaYtstvbBhns4JgvXFQ.png" width="45"/>
   <img src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" width="45"/>
   <img src="https://targetintegration.com/wp-content/uploads//2022/07/thumbnail-1.png" width="45"/>
