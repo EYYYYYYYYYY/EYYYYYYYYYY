@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jun Mark "Kulas" Cabrera  
+# 👋 Hi, I'm Jun Mark "Shogun" Cabrera  
 
-🚀 Tech Explorer | 📊 Data Enthusiast | 🔐 Cybersecurity Advocate | 💡 Startup Builder  
+🚀 Mobile App Developer | ☁️ Cloud & Workflow Builder | 🔐 Cybersecurity Advocate | 📊 Data Enthusiast | 💡 Startup Leader  
 
 ---
 
@@ -8,52 +8,63 @@
 
 ### 💻 Programming & Development  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+### 📱 Mobile App Development  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
 </p>
 
 ### ☁️ Cloud, Workflow & Automation  
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>
+  <img src="https://img.icons8.com/color/48/power-apps.png" width="45"/>
+  <img src="https://img.icons8.com/color/48/power-automate.png" width="45"/>
+  <img src="https://img.icons8.com/color/48/sharepoint.png" width="45"/>
 </p>
 
 ### 🔐 Cybersecurity  
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2E8B57?logo=metasploit&logoColor=white"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="45"/>
+  <img src="https://avatars.githubusercontent.com/u/11917372?s=200&v=4" width="45"/> <!-- Metasploit -->
 </p>
 
 ### 📊 Data & Analytics  
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" width="45"/>
 </p>
 
 ---
 
 ## 🌟 Highlights  
 - 🎓 Microsoft Learn Student Ambassador  
+- 📱 Mobile & Cloud Solutions Developer  
 - 🔐 Cybersecurity Seminar Speaker  
 - 💡 Startup Founder & Leader  
-- 🏆 Mr. Tandang Sora Winner  
+- 🏆 Mr. Tandang Sora 2024 Winner  
 - 📢 Public Speaker & Advocate for Mental Health  
 
 ---
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)  
+<p>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/jmcabrera-theshogun/)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/></a>
+  <a href="[https://github.com](https://github.com/EYYYYYYYYYY)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.icons8.com/color/48/gmail.png" width="45"/></a>
+</p>
 
 ---
 ⭐️ *Building solutions with passion and purpose*
