@@ -21,15 +21,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
+  <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-sharing.70760bf1e88b184bb1bc.png" width="45"/>
 </p>
 
 ### ☁️ Cloud, Workflow & Automation  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>
-  <img src="https://img.icons8.com/color/48/power-apps.png" width="45"/>
-  <img src="https://img.icons8.com/color/48/power-automate.png" width="45"/>
-  <img src="https://img.icons8.com/color/48/sharepoint.png" width="45"/>
+  <img src="https://icon2.cleanpng.com/lnd/20241122/ve/85ee4860600f5fcfcd3ed203d10cd5.webp" width="55"/>
+  <img src="https://framerusercontent.com/images/RKFHbzSnaYtstvbBhns4JgvXFQ.png" width="45"/>
+  <img src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" width="45"/>
+  <img src="https://targetintegration.com/wp-content/uploads//2022/07/thumbnail-1.png" width="45"/>
 </p>
 
 ### 🔐 Cybersecurity  
@@ -61,8 +62,8 @@
 
 ## 📬 Connect with Me  
 <p>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/jmcabrera-theshogun/)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/></a>
-  <a href="[https://github.com](https://github.com/EYYYYYYYYYY)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></a>
+  <a href="https://www.linkedin.com/in/jmcabrera-theshogun/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/></a>
+  <a href="https://github.com/EYYYYYYYYYY" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/></a>
   <a href="mailto:your@email.com"><img src="https://img.icons8.com/color/48/gmail.png" width="45"/></a>
 </p>
 
