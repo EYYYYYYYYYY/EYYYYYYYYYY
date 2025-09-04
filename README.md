@@ -22,15 +22,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
   <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-sharing.70760bf1e88b184bb1bc.png" width="45"/>
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="45"/>
 </p>
 
 ### ☁️ Cloud, Workflow & Automation  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="55"/>
-  <img src="https://framerusercontent.com/images/RKFHbzSnaYtstvbBhns4JgvXFQ.png" width="45"/>
-  <img src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" width="45"/>
-  <img src="https://targetintegration.com/wp-content/uploads//2022/07/thumbnail-1.png" width="45"/>
+  <img src="https://framerusercontent.com/images/RKFHbzSnaYtstvbBhns4JgvXFQ.png" width="55"/>
+  <img src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png" width="55"/>
+  <img src="https://targetintegration.com/wp-content/uploads//2022/07/thumbnail-1.png" width="55"/>
+  <img src=" https://images.ctfassets.net/crb83veve8xb/2YfNwMlyl1U0DLVXRgL8TB/9e8474e083f2ba01a296343d84f2282d/vercel_thumbnail.webp" width="55"/>
+ 
+  
 </p>
 
 ### 🔐 Cybersecurity  
